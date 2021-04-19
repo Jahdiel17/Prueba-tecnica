@@ -1,0 +1,66 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background: #071faa; 
+    background: -webkit-linear-gradient(to right, #040d61, #071faa);  
+    background: linear-gradient(to right, #040d61, #071faa); 
+    font-size: 1.6rem;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    color: white;
+    font-size: 4rem;
+}
+h2 {
+
+}
+h3 {
+    font-family: 'Staatliches', cursive;
+    color:#0da7d1;
+    font-size: 2.4rem;
+}
+.btn {
+    font-size:1.4rem;
+}
+.precio {
+    font-family: 'Staatliches', cursive;
+    color: #0da7d1;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.cantidad p {
+    font-size: 1.2rem;
+    margin: 0;
+}
+.list-group-item:hover {
+    background: white;
+}
+form {
+    border-radius: .3rem;
+}
+
+.containerPrincipal {
+    position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      border: 1px solid blue;
+      padding: 40px;
+    background-color: white;
+    background: #071faa; 
+    background: -webkit-linear-gradient(to right, #040d61, #071faa);  
+    background: linear-gradient(to right, #040d61, #071faa); 
+}
+  
+.containerSecundario{
+    text-align: center;
+}

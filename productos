@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "607bc84bc685c612a2b19af1"
+  },
+  "nombre": "Skin Lensun",
+  "descripcion": "Skin para playstation 4",
+  "precio": "700",
+  "cantidad": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607bcb44c685c612a2b19af2"
+  },
+  "nombre": "Gigabyte Z590 AORUS XTREME",
+  "descripcion": "Tarjeta Madre de Gigabyte",
+  "precio": "2500",
+  "cantidad": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607cc72bc192061064f49f26"
+  },
+  "nombre": "Vidrio templado Lensun",
+  "descripcion": "Vidrio templado para Tablets con nanotecnologia",
+  "precio": "800",
+  "cantidad": "1",
+  "__v": 0
+}]
